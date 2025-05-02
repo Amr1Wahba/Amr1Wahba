@@ -24,12 +24,25 @@
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 
+  <!-- GitLab -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+
   <!-- Raspberry Pi -->
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/>
 
+  <!-- VectorCAST -->
+  <img src="https://www.vector.com/portal/medien/vector_com/logos/vectorcast_logo.png" alt="VectorCAST" width="70" height="30"/>
+
   <!-- AUTOSAR -->
-  <img src="https://www.autosar.org/fileadmin/USER_UPLOAD/Website/03_Media/Logos/AUTOSAR_Logo.svg" alt="AUTOSAR" width="70" height="30"/>
+  <img src="https://www.autosar.org/fileadmin/user_upload/Logos/AUTOSAR_LOGO.svg" alt="AUTOSAR" width="70" height="30"/>
+
+  <!-- Polarion -->
+  <img src="https://www.polarion.com/themes/custom/polarion/logo.svg" alt="Polarion" width="70" height="30"/>
 </p>
+
 
 ---
 
