@@ -7,15 +7,6 @@
 
 ---
 
-### 💻 About Me
-
-- 👀 I’m interested in **Robotics** & **Automotive Embedded Systems**
-- 🌱 Currently working on an **AUTOSAR BSW Project**
-- 🧩 I love solving **puzzles** and **logic problems**
-- 🚀 Passionate about **Embedded Linux**, **GStreamer**, and **Low-Level Debugging**
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="center">
@@ -25,8 +16,8 @@
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 
-  <!-- Object-Oriented Programming -->
-  <img src="https://www.vectorstock.com/royalty-free-vector/object-oriented-programming-isolated-icon-simple-vector-28218229" alt="OOP" width="40" height="40"/>
+  <!-- OOP -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/object-oriented-programming.png" alt="OOP" width="40" height="40"/>
 
   <!-- Qt -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
@@ -44,22 +35,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 
   <!-- Doxygen -->
-  <img src="https://www.svgrepo.com/show/373563/doxygen.svg" alt="Doxygen" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/doxygen/doxygen-icon.svg" alt="Doxygen" width="40" height="40"/>
 
   <!-- Raspberry Pi -->
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/>
-</p>
 
----
+  <!-- CMake -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Cmake.svg" alt="CMake" width="40" height="40"/>
 
-### 📊 GitHub Stats
+  <!-- VectorCAST -->
+  <img src="https://www.vector.com/portal/medien/vector_com/logos/vectorcast_logo.png" alt="VectorCAST" width="40" height="40"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amr1Wahba&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr1Wahba&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr1Wahba&layout=compact&theme=tokyonight" />
+  <!-- DaVinci Developer -->
+  <img src="https://www.vector.com/portal/medien/vector_com/logos/davinci_developer_logo.png" alt="DaVinci Developer" width="40" height="40"/>
+
+  <!-- CANoe -->
+  <img src="https://www.vector.com/portal/medien/vector_com/logos/canoe_logo.png" alt="CANoe" width="40" height="40"/>
 </p>
 
 ---
@@ -77,7 +68,3 @@
 </p>
 
 ---
-
-### 🏁 Motto
-
-> "Build clean, trace deep, and automate everything."
