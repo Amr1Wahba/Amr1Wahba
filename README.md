@@ -32,17 +32,7 @@
 
   <!-- Raspberry Pi -->
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/>
-
-  <!-- VectorCAST -->
-  <img src="https://www.vector.com/portal/medien/vector_com/logos/vectorcast_logo.png" alt="VectorCAST" width="70" height="30"/>
-
-  <!-- AUTOSAR -->
-  <img src="https://www.autosar.org/fileadmin/user_upload/Logos/AUTOSAR_LOGO.svg" alt="AUTOSAR" width="70" height="30"/>
-
-  <!-- Polarion -->
-  <img src="https://www.polarion.com/themes/custom/polarion/logo.svg" alt="Polarion" width="70" height="30"/>
 </p>
-
 
 ---
 
