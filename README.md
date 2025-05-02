@@ -13,15 +13,12 @@
 - 🌱 Currently working on an **AUTOSAR BSW Project**
 - 🧩 I love solving **puzzles** and **logic problems**
 - 🚀 Passionate about **Embedded Linux**, **GStreamer**, and **Low-Level Debugging**
-- 📫 Reach me at:
-  - [LinkedIn](https://www.linkedin.com/in/amr-wahba-es/)
-  - 📧 amr1wahba@gmail.com
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/GStreamer-68217A?style=for-the-badge&logoColor=white"/>
@@ -45,6 +42,20 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amr1Wahba&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amr1Wahba&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<h3 align="center">📬 Want to reach me out?</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/amr-wahba-es/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:amr1wahba@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
