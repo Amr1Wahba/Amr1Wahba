@@ -17,20 +17,36 @@
 ---
 
 ---
+---
 
 ### 🛠️ Languages & Tools
 
 <p align="center">
+  <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  
+  <!-- Qt -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/GStreamer_logo.svg" alt="GStreamer" width="40" height="40"/>
+
+  <!-- GStreamer -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/GStreamer_logo.svg" alt="GStreamer" width="40" height="40"/>
+
+  <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Embedded Linux" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="Doxygen" width="40" height="40"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969028.png" alt="Raspberry Pi" width="40" height="40"/>
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+
+  <!-- Doxygen -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Doxygen_logo.png" alt="Doxygen" width="40" height="40"/>
+
+  <!-- Raspberry Pi -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/>
 </p>
+
 
 ---
 
