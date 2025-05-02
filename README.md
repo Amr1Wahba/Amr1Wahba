@@ -27,9 +27,12 @@
   <img src="https://img.shields.io/badge/GStreamer-68217A?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Yocto-9C3?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/AUTOSAR-005571?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clang--Tidy-000000?style=for-the-badge&logo=llvm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Doxygen-006699?style=for-the-badge&logo=doxygen&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
