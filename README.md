@@ -16,20 +16,20 @@
 
 ---
 
-### 🛠️ Tech Stack
+---
+
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GStreamer-68217A?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Yocto-9C3?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AUTOSAR-005571?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clang--Tidy-000000?style=for-the-badge&logo=llvm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Doxygen-006699?style=for-the-badge&logo=doxygen&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/GStreamer_logo.svg" alt="GStreamer" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Embedded Linux" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="Doxygen" width="40" height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5969/5969028.png" alt="Raspberry Pi" width="40" height="40"/>
 </p>
 
 ---
