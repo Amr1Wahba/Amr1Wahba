@@ -16,19 +16,23 @@
 
 ---
 
----
-
 ### 🛠️ Languages & Tools
 
 <p align="center">
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+
+  <!-- Object-Oriented Programming -->
+  <img src="https://www.vectorstock.com/royalty-free-vector/object-oriented-programming-isolated-icon-simple-vector-28218229" alt="OOP" width="40" height="40"/>
 
   <!-- Qt -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
 
-  <!-- GStreamer (hosted SVG) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/GStreamer_logo.svg/2560px-GStreamer_logo.svg.png" alt="GStreamer" width="40" height="40"/>
+  <!-- GStreamer -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/GStreamer_logo.svg" alt="GStreamer" width="40" height="40"/>
 
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
@@ -39,8 +43,8 @@
   <!-- Docker -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 
-  <!-- Doxygen (hosted PNG fallback) -->
-  <img src="https://user-images.githubusercontent.com/24959572/229209028-8fcf4a69-d24b-4081-a96c-bbd1da38b812.png" alt="Doxygen" width="40" height="40"/>
+  <!-- Doxygen -->
+  <img src="https://www.svgrepo.com/show/373563/doxygen.svg" alt="Doxygen" width="40" height="40"/>
 
   <!-- Raspberry Pi -->
   <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="Raspberry Pi" width="40" height="40"/>
