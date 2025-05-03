@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Amr WAHBA</h1>
-<h3 align="center"> Automotive & Embedded Linux Engineer | Robotics Enthusiast | GStreamer & C++ Developer</h3>
+<h3 align="center"> Automotive & Embedded Linux Engineer | Robotics Enthusiast | QT & C++ Developer</h3>
 
 ---
 
